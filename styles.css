@@ -1,3 +1,4 @@
+
 body {
   text-align: center;
   background-color: #283149;
@@ -14,6 +15,11 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
+
+.cursor{
+  cursor:url(images/drum.png),auto;
+}
+
 
 footer {
   color: #DBEDF3;
